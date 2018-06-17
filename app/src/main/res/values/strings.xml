@@ -1,0 +1,8 @@
+<resources>
+<string name="app_name">RepostiroeyAndNetworkBound</string>
+<string name="type_a_title">Type a Title</string>
+<string name="add_discription">add description</string>
+<string name="publish">Publish</string>
+<string name="title_activity_feed">FeedActivity</string>
+<string name="update">Update</string>
+</resources>
